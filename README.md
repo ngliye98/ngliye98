@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ngliye98&label=Profile%20views&color=0e75b6&style=flat" alt="ngliye98" /> </p>
 
-- 🔭 I’m currently working on **my final year project and some personal side projects**
+- 🔭 I’m currently working on **my final year project and some personal side projects**, graduating in Apr 2024
 
-- 📫 How to reach me **liye1998@hotmail.com**
+- 📫 How to reach me **liye1998@hotmail.com** (personal email) / **liye.ng.2020@scis.smu.edu.sg** (school email)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/li-ye-ng-11727a119/](https://www.linkedin.com/in/li-ye-ng-11727a119/)
 
