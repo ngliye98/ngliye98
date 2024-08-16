@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Li Ye</h1>
-<h3 align="center">Information Systems graduate @ SMU, aspiring to become a backend software engineer/product manager</h3>
+<h3 align="center">An Information Systems graduate @ SMU, aspiring to become a backend software engineer/product manager</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ngliye98&label=Profile%20views&color=0e75b6&style=flat" alt="ngliye98" /> </p>
 
