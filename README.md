@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm Li Ye</h1>
-<h3 align="center">A final year Information Systems student @ SMU, aspiring to become a backend software engineer/product manager</h3>
+<h3 align="center">Information Systems graduate @ SMU, aspiring to become a backend software engineer/product manager</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ngliye98&label=Profile%20views&color=0e75b6&style=flat" alt="ngliye98" /> </p>
 
-- 🔭 I’m currently working on **my final year project and some personal side projects**, graduating in Apr 2024
+- 🔭 I’m currently working on **learning Go and creating some personal side projects**!
 
 - 📫 How to reach me **liye1998@hotmail.com** (personal email) / **liye.ng.2020@scis.smu.edu.sg** (school email)
 
