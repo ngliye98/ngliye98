@@ -1,13 +1,11 @@
 <h1 align="center">Hello 👋, I'm Li Ye</h1>
-<h3 align="center">An Information Systems graduate @ SMU, aspiring to become a backend software engineer/product manager</h3>
+<h3 align="center">Information Systems graduate @ SMU. Currently an Associate Product Manager</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ngliye98&label=Profile%20views&color=0e75b6&style=flat" alt="ngliye98" /> </p>
 
-- 🔭 I’m currently working on **learning Go and creating some personal side projects**!
+- 🔭 When possible, I try to find time to work on **some personal side projects**, will share more details in due time :)
 
-- 📫 How to reach me **liye1998@hotmail.com** (personal email) / **liye.ng.2020@scis.smu.edu.sg** (school email)
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/li-ye-ng-11727a119/](https://www.linkedin.com/in/li-ye-ng-11727a119/)
+- 📄 Know about my experiences or reach out to me via [https://www.linkedin.com/in/li-ye-ng-11727a119/](https://www.linkedin.com/in/li-ye-ng-11727a119/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
